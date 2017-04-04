@@ -16,4 +16,4 @@ $ ./play_2048
 $ make
 ```
 
-#### OS: Linux
+#### It works on Linux.
