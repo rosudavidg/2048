@@ -1,6 +1,7 @@
 /* Rosu Gabriel - David
  * UNIVERSITATEA POLITEHNICA DIN BUCURESTI
  * rosudavidg@gmail.com
+ * Aprilie 2017
  */
 #include <stdio.h>
 #include <stdlib.h>
