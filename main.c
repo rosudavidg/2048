@@ -201,7 +201,7 @@ void move_s(int numbers[4][4], int checked[4][4])
 void move_d(int numbers[4][4], int checked[4][4])
 {
 	int i, j;
-	for(i = 0; i < 4; i++)
+	for(i = 0; i < 4; i++) 
 		for(j = 2; j >= 0; j--)
 			if(checked[i][j] == 1)
 			{
